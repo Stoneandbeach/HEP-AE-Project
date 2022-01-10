@@ -1,0 +1,37 @@
+# Variables in common with Eric Wulff
+JetEtaJESScaleMomentum_pt
+JetEtaJESScaleMomentum_eta
+JetEtaJESScaleMomentum_phi
+# JetEtaJESScaleMomentum_m is being replaces by Calculated_E produced from Lorentz transformation
+Calculated_E
+ActiveArea
+ActiveArea4vec_pt
+ActiveArea4vec_eta
+ActiveArea4vec_phi
+ActiveArea4vec_m
+AverageLArQF
+NegativeE
+# HECQuality is being cut bc it is to do with end-caps
+LArQuality
+Width
+WidthPhi
+CentroidR
+DetectorEta
+LeadingClusterCenterLambda
+LeadingClusterPt
+LeadingClusterSecondLambda
+LeadingClusterSecondR
+# N90Constituents excluded bc integer
+EMFrac
+HECFrac
+Timing
+OotFracClusters10
+OotFracClusters5
+# Variables not used by Eric Wulff
+ECPSFraction
+# BchCorrCell cut because it hasn't been used for ~5 years
+FracSamplingMax
+DetectorPhi
+JVFCorr
+Jvt
+LArBadHVEnergyFrac
