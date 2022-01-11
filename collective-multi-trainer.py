@@ -7,7 +7,7 @@ Created on Mon Oct 11 13:03:07 2021
 This script trains several autoencoder models at once. It was used to run AE training on the HTCondor cluster service hosted by CERN.
 It is very much a piece of work that has grown organically with the needs of the project, and as such is likely somewhat hard to make sense of.
 The basic operating principle is the same as in the project found at https://github.com/Stoneandbeach/ATLAS-collective-AE and in the
-grouped-encoding-31dim.ipynb notebook of this project., so a study of that project is probably the way to build an understanding of what this
+grouped-encoding-31dim.ipynb notebook of this project, so a study of that project is probably the way to build an understanding of what this
 script produces. In essence, this script is only built to run the ATLAS-collective-AE process a number of times with different input parameters.
 
 Please feel free to contact me, the author, with any questions at sten@stoneandbeach.com!
