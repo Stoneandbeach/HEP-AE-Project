@@ -13,11 +13,11 @@ Again, though it is possible, this repository is not meant to be used by anyone 
 
 The versions of main python libraries used in my thesis project are:
 
-numpy 1.19.2
-pandas 1.2.3
-pytorch 1.8.1
-fastai 2.3.1
-vector 0.8.1
-uproot 4.0.7
+numpy 1.19.2<br>
+pandas 1.2.3<br>
+pytorch 1.8.1<br>
+fastai 2.3.1<br>
+vector 0.8.1<br>
+uproot 4.0.7<br>
 
 The complete list of libraries in the Anaconda environment used is found in the file environment.txt.
