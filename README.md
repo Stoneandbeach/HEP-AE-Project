@@ -10,3 +10,14 @@ It is, however, important to understand one of the scripts in particular: groupe
 Those two processes demonstrate what the collective-multi-trainer.py script does, but in a more scaled-down version. The collective-multi-trainer.py script is what was finally used in the thesis for training the large number of AEs used in the report.
 
 Again, though it is possible, this repository is not meant to be used by anyone else. If you want to use or adapt my code for another project, please feel free to contact me with any questions!
+
+The versions of main python libraries used in my thesis project are:
+
+numpy 1.19.2
+pandas 1.2.3
+pytorch 1.8.1
+fastai 2.3.1
+vector 0.8.1
+uproot 4.0.7
+
+The complete list of libraries in the Anaconda environment used is found in the file environment.txt.
