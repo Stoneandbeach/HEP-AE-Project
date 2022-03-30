@@ -1,5 +1,7 @@
 # HEP-AE-Project
-Repository of code used as part of my master's thesis project; Autoencoder Compression in High Energy Physics. To understand this repository, I suggest first reading the report, which will be available online once it has been published.
+Repository of code used as part of my master's thesis project; Autoencoder Compression in High Energy Physics. To understand this repository, I suggest first reading the report, which is available online here:
+
+https://lup.lub.lu.se/student-papers/search/publication/9075881
 
 The scripts of this repository have grown and changes with the needs of the thesis project. They are not meant to be generalizable, and build upon the specific input file structures, AE architectures, information storage and specific versions of that stored information that was used the thesis.
 
